@@ -1,0 +1,117 @@
+body {
+    background-image: url(../imgs/IMG_0902.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Bebas Neue', cursive;
+          
+}
+
+
+
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 110px;
+    background-color: grey;
+    font-size: 35px;
+}
+
+.navbar li,
+.navbar a {
+    height: 110px;
+    line-height: 20px;
+}
+
+.menu { padding-left: 20px;
+    width: 90%;
+    max-width: 960px;
+    max-height: 100px;
+    margin: 0;
+}
+
+.menu a,
+.menu a:visited {
+    color: white;
+}
+
+.menu a:hover,
+.menu a:target {
+    color: #ebebeb;
+}
+
+.menu-items {
+    display: inline-block;
+}
+
+.menu-items li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.menu-items a {
+    text-decoration: none;
+}
+
+.myname {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.about { font-family: avenir, sans-serif;
+    padding-left: 30px;
+    position: relative;
+    top: 120px;
+    font-size: 30px;
+    max-width: 900px;
+    
+}
+
+.about a,
+.about:visited {
+    color: black;
+}
+
+.about a:hover,
+.about a:target {
+    color: grey;
+}
+
+.bodybackground {
+    background-color: #E4E4E4;
+    background-image: none;
+}
+
+.projectlinks {  padding-left: 30px;
+    font-family: avenir, sans-serif;
+    position: relative;
+    top: 120px;
+    font-size: 30px;
+
+}
+
+.projectlinks a,
+.projectlinks:visited {
+    color: grey;
+}
+
+.projectlinks a:hover,
+.projectlinks a:target {
+    color: darkgray;
+}
+
+.pastproj { font-family: avenir, sans-serif;
+    position: relative;
+    top: 120px;
+    font-size: 30px;
+    padding-left: 30px;
+   
+   
+
+}
+}

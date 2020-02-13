@@ -1,0 +1,47 @@
+.nextpage {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  right: 100px;}
+
+.home {
+width: 50px; 
+position: absolute;
+  top: 8px;
+  left: 10px;}
+
+.prev {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  left: 10px;}
+.syl {
+    margin: 0;
+    top: 50%;
+    left: 30%; 
+    position: absolute; 
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    text-align: center;
+    transition-property: transform;
+    padding: 10px 15px;
+    border-radius: 100px;
+    background-color: skyblue;
+    animation: posChange 7s infinite;
+   animation-direction: alternate-reverse;
+}
+
+body {
+    background-image: url(https://i.imgur.com/14DvBRm.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;}
+    
+
+    @keyframes posChange {
+    0% {
+        transform: rotatey(180deg);
+    }
+    100% {
+        transform: rotatey(0);
+    }
+}

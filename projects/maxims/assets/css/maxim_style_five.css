@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body { background-image: url(https://media3.giphy.com/media/fA1OFzprOfRjteYADG/giphy.gif);
+    
+  
+}
+
+
+.tweetFIVE {  
+   color: orangered;
+    font-size: 60px;
+    width: 900px;
+    height: 150px;
+    margin: 0;
+    top: 30%;
+    left: 50%; 
+    position: absolute; 
+    transform: translate(-50%, -50%);
+
+    
+
+}
+
+.nextpage {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  right: 100px;}
+
+.home {
+width: 50px; 
+position: absolute;
+  top: 8px;
+  left: 10px;}
+
+
+.prev {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  left: 10px;}
+

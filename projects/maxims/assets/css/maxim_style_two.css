@@ -1,0 +1,38 @@
+.nextpage {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  right: 100px;}
+
+.home {
+width: 50px; 
+position: absolute;
+  top: 8px;
+  left: 10px;}
+
+.prev {
+width: 50px; 
+position: absolute;
+  bottom: 8px;
+  left: 10px;}
+
+#xyz div {
+   margin: 0;
+   top: 50%;
+   left: 50%;
+   position: absolute;
+   transform: translate(-50%, -50%);
+  transition: opacity 1s ease-in-out;
+}
+
+.imagechange {
+  z-index: 9999;
+}
+
+#xyz div.imagechange:hover {
+  opacity: 0;
+}
+
+.pottertweet {width: 380px;
+font-family: monospace;
+font-size: 20px; }
