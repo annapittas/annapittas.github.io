@@ -1,0 +1,22 @@
+body { 
+    
+    width: 600px;
+    height: 340px;
+     border: 8px solid #FFDC68;
+    
+    color: gold;
+font-family:  'Pinyon Script', cursive;
+font-size:18px;
+letter-spacing: 2px;}
+
+
+#cat {font-size: 70px}
+
+.home{ position: bottom left; 
+font-family: monospace;
+font-size: 10px;}
+
+.reference{ position: bottom right; 
+font-family: monospace;
+font-size: 10px;}
+

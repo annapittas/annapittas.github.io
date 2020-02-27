@@ -1,0 +1,54 @@
+.firstline { padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: red;
+    letter-spacing: 4px; 
+}
+
+.secondline { padding-top: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: red;
+     letter-spacing: 4px; 
+}
+.thirdline { padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: red;
+     letter-spacing: 1.5px; 
+}
+
+.fourthline { padding-top: 90px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: red;
+     letter-spacing: 1px; 
+    width: 760px;
+}
+
+#italic {font-style: italic}
+
+.fifthline { padding-top: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: red;
+     letter-spacing: 1px; 
+}
+#bold { font-weight: 900; 
+font-size: 20px}
+
+.sixthline { padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    color: red;
+     letter-spacing: 1px; 
+    width: 760px;
+}
+
+.home{ position: top left; 
+font-family: monospace;
+font-size: 10px;}
+
+.reference{ position: bottom right; 
+font-family: monospace;
+font-size: 10px;}

@@ -1,0 +1,79 @@
+body {width: 900px;
+padding-left: 80px;
+    background-color: #FFCADD;
+}
+
+
+.fem {
+    font-family: 'Roboto Slab', serif;
+    padding-top: 30px;
+    font-size: 140px;
+
+
+}
+
+.andd {
+    font-family: 'Roboto Slab', serif;
+
+    font-size: 100px;
+    display: block;
+    line-height: 9px;
+
+
+}
+
+#cap {
+    font-size: 190px;
+}
+
+#aids {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 200px;
+    position: relative;
+    bottom: -30px;
+
+
+
+
+}
+
+#aidsaaa {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 240px;
+    position: relative;
+    bottom: -30px;
+}
+
+.info {
+font-family: 'Crimson Pro', serif;
+
+    font-weight: 900;
+    padding-top: 100px;
+    font-size: 20px;
+      letter-spacing: 1px; 
+
+}
+
+.bulk {
+font-family: font-family: 'Crimson Pro', serif;
+    font-weight: 400;
+    padding-top: 50px;
+    margin-left:   100px;
+    font-size: 20px;
+      letter-spacing: 1px; 
+
+}
+
+#bold { font-family: font-family: 'Crimson Pro', serif;
+    font-weight: 700;}
+
+.lastline {font-family: monospace;
+font-size: 17px;}
+
+.home{ position: top left; 
+font-family: monospace;
+font-size: 10px;}
+
+.reference{ position: bottom right; 
+font-family: monospace;
+font-size: 10px;}
